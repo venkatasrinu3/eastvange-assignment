@@ -14,7 +14,7 @@ Before running this project, make sure you have the following installed:
 1. Clone the repository or download the source code to your local machine.
 
 ```bash
-git clone https://github.com/your-username/react-axios-api-call.git
+git clone https://github.com/venkatasrinu3/eastvange-assignment.git
 ```
 
 2. Navigate to the project directory.
